@@ -6,4 +6,4 @@ Git gitup ikinci Gun MASTER BRANCH'I deneme
 Git gitup ikinci Gun DEVRIM BRANCH'I IKINCI deneme 
 Git gitup ikinci Gun EYLEM BRANCH'I IKINCI deneme ..................???????????????????????
 Git gitup ucuncu Gun ilk deneme
-
+Git gitup ucunucu Gun ikinci deneme
